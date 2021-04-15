@@ -1,0 +1,43 @@
+body {
+    background-color: #19191b;
+}
+
+#todo-form {
+    width: 100%;
+    height: auto;
+}
+
+#todo {
+    background-color: rgb(43, 87, 79, .5);
+    border: none;
+    border-radius: 8px;
+    margin: 30px 0px 0px 60px;
+    height: 80px;
+    width: 500px;
+    color: white;
+    font-size: 1.5em;
+
+}
+
+#boton {
+    border: none;
+    font-size: 1.5em;
+    background-color: rgb(39, 87, 119);
+    color: white;
+    font-weight: 600;
+    border-radius: 8px;
+    height: 80px;
+    width: 120px;
+}
+
+#todo-list li {
+    display: inline-block;
+    background-color: rgb(39, 87, 119);
+    width: 1000px;
+    margin: 8px;
+    border-radius: 8px;
+    height: 40px;
+    color: white;
+    
+
+}
